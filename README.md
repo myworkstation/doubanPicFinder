@@ -3,7 +3,9 @@ doubanPicFinder
 
 豆瓣图片挖掘机v0.1
 author：zhipengx
+
 email:landonpro#163.com
+
 please feel free to contact me.
 
 功能：
